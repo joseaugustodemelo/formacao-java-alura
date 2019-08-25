@@ -10,3 +10,11 @@ Este repositório faz parte do estudo dirigido para a formação **Java**, acomp
 5. Trabalhando com caracteres
 6. Praticando condicionais
 7. Controlando fluxo com laços
+
+## Java parte 2 - Introdução à orientação a objetos
+1. O problema do paradigma procedural
+2. Introdução à Orientação a Objetos
+3. Definindo comportamento
+4. Composição de objeto 
+5. Encapsulamento e visibilidade
+6. Construtores e Membros estáticos
