@@ -18,3 +18,12 @@ Este repositório faz parte do estudo dirigido para a formação **Java**, acomp
 4. Composição de objeto 
 5. Encapsulamento e visibilidade
 6. Construtores e Membros estáticos
+
+## Java parte 3: Entendendo herança e interface
+1. Introdução a herança
+2. Super e reescrita de métodos
+3. Entendendo Polimorfismo
+4. Herança e o uso de construtores
+5. Classes e métodos abstratos
+6. Interfaces
+7. Praticando herança e interfaces
