@@ -2,7 +2,7 @@
 
 Este repositório faz parte do estudo dirigido para a formação **Java**, acompanhando as aulas da **Alura Cursos** e realizando os exercícios de fixação.
  
-## Java parte 1 - Primeiros passos
+## Java parte 1: Primeiros passos
 1. O que é Java?
 2. Instalação e o primeiro programa
 3. Começando com Eclipse
@@ -11,7 +11,7 @@ Este repositório faz parte do estudo dirigido para a formação **Java**, acomp
 6. Praticando condicionais
 7. Controlando fluxo com laços
 
-## Java parte 2 - Introdução à orientação a objetos
+## Java parte 2: Introdução à orientação a objetos
 1. O problema do paradigma procedural
 2. Introdução à Orientação a Objetos
 3. Definindo comportamento
@@ -27,3 +27,11 @@ Este repositório faz parte do estudo dirigido para a formação **Java**, acomp
 5. Classes e métodos abstratos
 6. Interfaces
 7. Praticando herança e interfaces
+
+## Java parte 4: Entendendo exceções
+1. Pilha de execução
+2. Tratamento de Exceções
+3. Lançando Exceções
+4. Checked e Unchecked
+5. Aplicando exceções
+6. Finally e try with resources
