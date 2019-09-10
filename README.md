@@ -35,3 +35,10 @@ Este repositório faz parte do estudo dirigido para a formação **Java**, acomp
 4. Checked e Unchecked
 5. Aplicando exceções
 6. Finally e try with resources
+
+## Java parte 5: Pacotes e java.lang
+1. Organizando as classes com pacotes
+2. Todos os modificadores de acesso
+3. Distribuição do seu código
+4. O pacote java.lang
+5. A classe Object
