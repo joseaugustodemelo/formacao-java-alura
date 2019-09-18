@@ -28,6 +28,9 @@ Este repositório faz parte do estudo dirigido para a formação **Java**, acomp
 6. Interfaces
 7. Praticando herança e interfaces
 
+## Java parte 6: Conhecendo o java.util
+1. Introdução
+
 ## Java parte 4: Entendendo exceções
 1. Pilha de execução
 2. Tratamento de Exceções
